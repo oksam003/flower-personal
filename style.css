@@ -1197,10 +1197,10 @@ body {
   right:20%;
   left: 30%;
   transform: translate(-50%, -50%);
-  font-size: 45px;
+  font-size: 25px;
   font-style: italic;
   color: rgb(144, 227, 248);
-  text-align: Baseline;
+  text-align: center;
   animation: birthdayAnimation 5s linear infinite;
 }
 
